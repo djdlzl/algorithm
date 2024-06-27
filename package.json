@@ -1,0 +1,20 @@
+{
+  "name": "nodejsinflearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djdlzl/algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djdlzl/algorithm/issues"
+  },
+  "homepage": "https://github.com/djdlzl/algorithm#readme"
+}
